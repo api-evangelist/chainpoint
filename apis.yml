@@ -1,0 +1,32 @@
+aid: chainpoint
+name: Chainpoint
+description: "Chainpoint is a global network for anchoring data to the Bitcoin blockchain"
+url: https://tierion.com/chainpoint/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Blockchain"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Blockchain
+  - Public APIs
+apis:
+  - name: Chainpoint
+    description: "Chainpoint is a global network for anchoring data to the Bitcoin blockchain"
+    humanURL: https://tierion.com/chainpoint/
+    baseURL: https://tierion.com/chainpoint/
+    tags:
+      - Blockchain
+    properties:
+      - type: Documentation
+        url: https://tierion.com/chainpoint/
+common:
+  - type: Website
+    url: https://tierion.com/chainpoint/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
