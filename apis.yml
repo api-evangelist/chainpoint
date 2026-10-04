@@ -39,7 +39,6 @@ apis:
   - name: Chainpoint
     description: "Chainpoint is a global network for anchoring data to the Bitcoin blockchain"
     humanURL: https://tierion.com/chainpoint/
-    baseURL: https://tierion.com/chainpoint/
     tags:
       - Blockchain
     properties:
